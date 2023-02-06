@@ -1,6 +1,6 @@
 # Smart Mirror
 
-![pic](pics/pic1.jpg)
+![pic](pics/pic8.jpg)
 
 ## What is a Smart Mirror?
 A Smart Mirror is essentially a two way mirror that can display anything you want on its surface. Some things you can display are the Weather, News, Stocks, Sports team scores. It is HIGHLY customizable and one can create custom modules for it
@@ -17,19 +17,24 @@ I took on the challenge of building a Smart Mirror after going online and lookin
 
 The first step I did was, I ordered a Picture Frame, Monitor, and an Acryllic Two Way Mirror. I went with the Acryllic Two Way Mirror because it was the cheaper option opposed to a regular glass mirror
 
+
 Once the supplies arrived I got to work.
+
+![pic](pics/pic1.jpg)
 
 I disassembled the Acer monitor and removed all sorts of framing from it.
 
 I then took the cardboard picture frame backing and cut out a slot for the monitor in the back.
 
 I then hastily used electric tape to sort of hold it all together temporarily so that I could just see how it would work
+![pic](pics/pic2.jpg)
 
 You probably are concerned with the way I described this project so far... Yeah....
 
 I held the mirror up on a drawer to snap some pictures of it and DROP and CRACK
 
 The mirror was shattered....
+![pic](pics/pic3.jpg)
 
 ## Lessons
 Yeah, my first attempt at this project was a complete failure. Looking back, I do not know what I was thinking with this because it was really structurally weak.
@@ -43,9 +48,17 @@ However, I really wanted to complete this project so I decided to not cut corner
 
 # Attempt 2
 
-Ok, lets try this again. Once I receieved the new parts, I measured the size and dimension of things. I then went to Lowes and bought wooden planks that could fit into the frame and keep the entire structure from moving. Once I did the long and tedious process of marking nail holes, drilling holes, adjusting the planks to see what would create the most sturdiest design.
+Ok, lets try this again. Once I receieved the new parts, I measured the size and dimension of things. I then went to Lowes and bought wooden planks that could fit into the frame and keep the entire structure from moving.
+
+![pic](pics/pic7.jpg)
+
+Once I did the long and tedious process of marking nail holes, drilling holes, adjusting the planks to see what would create the most sturdiest design.
+
+![pic](pics/pic4.jpg)
 
 Thankfully it looked like this did the trick as the Smart Mirror looks sturdy and works as expected!
+
+![pic](pics/pic6.jpg)
 
 # Smart Mirror Software
 I am not going to go deep into detail as to how I set up the software but I used the Open Source Magic Mirror Repo(https://docs.magicmirror.builders/) and tinkered a bit with my Raspberry Pi 4 to make it start on boot
